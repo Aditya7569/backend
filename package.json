@@ -3,11 +3,19 @@
   "version": "1.0.0",
   "description": "a backend",
   "keywords": [
-    "javascript",
+    "js",
     "backend"
   ],
+  "homepage": "https://github.com/Aditya7569/backend#readme",
+  "bugs": {
+    "url": "https://github.com/Aditya7569/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya7569/backend.git"
+  },
   "license": "ISC",
-  "author": "aditya singh rathore",
+  "author": "aditya",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
